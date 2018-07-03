@@ -7,7 +7,6 @@ function takeANumber(katzDeliLine,name) {
 }
 
 function nowServing(katzDeliLine) {
-  name = name[0]
     return `Currently serving ${name}.`
   if (katzDeliLine.length === 0) {
     return "The line is currently empty."
