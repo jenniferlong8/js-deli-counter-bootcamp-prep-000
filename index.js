@@ -1,4 +1,4 @@
-var katzDeli = [];
+var katzDeliLine = [];
 
 function takeANumber(katzDeliLine,name) {
   for (let i=1; (i < katzDeliLine.length); i++) {
