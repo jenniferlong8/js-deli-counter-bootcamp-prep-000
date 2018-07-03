@@ -13,6 +13,5 @@ function nowServing(katzDeliLine) {
     return `Currently serving ${name[0]}.`
     delete katzDeliLine[0] 
   }
-
   }
 }
